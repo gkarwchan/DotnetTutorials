@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetTutorials.webapi", "DotnetTutorials.webapi\DotnetTutorials.webapi.csproj", "{56A3B1C1-2CCD-40B4-836E-F7FDC257209C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{819257E0-0C76-4B33-8FFF-EC1CB1D446A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{56A3B1C1-2CCD-40B4-836E-F7FDC257209C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A3B1C1-2CCD-40B4-836E-F7FDC257209C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A3B1C1-2CCD-40B4-836E-F7FDC257209C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819257E0-0C76-4B33-8FFF-EC1CB1D446A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819257E0-0C76-4B33-8FFF-EC1CB1D446A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819257E0-0C76-4B33-8FFF-EC1CB1D446A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819257E0-0C76-4B33-8FFF-EC1CB1D446A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
